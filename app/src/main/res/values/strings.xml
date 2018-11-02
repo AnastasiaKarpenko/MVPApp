@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVPApp</string>
+    <string name="submit_btn_text">Submit</string>
+</resources>
