@@ -25,6 +25,6 @@ public class MainActivity extends AppCompatActivity implements MainContractor.Ma
     }
 
     public void onButtonClick(View view) {
-
+        mPresenter.onButtonClick(mEditText.getText().toString());
     }
 }

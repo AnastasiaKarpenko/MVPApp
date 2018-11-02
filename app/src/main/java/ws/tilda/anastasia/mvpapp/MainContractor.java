@@ -8,5 +8,6 @@ public interface MainContractor {
 
     interface MainPresenter {
 
+        void onButtonClick(String name);
     }
 }
